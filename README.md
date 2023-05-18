@@ -22,7 +22,7 @@ This Python program analyzes the types of colors present in an image. It categor
 3. Save the changes.
 4. Run the program by executing the following command:
 ```shell
-python analyze_colors.py
+python ICA.py
 ```
 The program will process the image and display the types of colors found along with their respective counts.
 
