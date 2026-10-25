@@ -1,4 +1,4 @@
-# Image Color Analysis
+## Image Color Analysis
 
 This Python program analyzes the types of colors present in an image. It categorizes the colors into basic color types such as red, green, blue, gray, and mixed. The program utilizes the Pillow library to extract the RGB values of each pixel in the image.
 
